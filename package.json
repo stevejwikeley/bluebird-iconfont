@@ -1,0 +1,13 @@
+{
+  "name": "bbicon-font",
+  "version": "0.1.0",
+  "author": "Steve",
+  "private": false,
+  "devDependencies": {
+    "matchdep": "*",
+    "grunt": "~0.4.4",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-notify": "^0.3.0",
+    "grunt-webfont": "^0.4.2"
+  }
+}
